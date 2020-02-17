@@ -1,6 +1,6 @@
-## Translate Python to C++
+## Histogram Filter in Python and C++
 
-Translate a Python developed code of Histogram Filter to C++.
+A Translated a Python developed code of Histogram Filter to C++.
 
 ### Description
 
